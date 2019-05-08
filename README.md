@@ -1,7 +1,7 @@
 # uvsoftgroupgeotransformation
 
 # Social Media 
-1. [![alt text](https://github.com/isshmsc/uvsoftgroupgeotransformation/blob/master/images/1%20.jpg =50x50)](https://www.youtube.com/watch?v=KDQFzPHIKYQ).
+1. [![alt text](https://github.com/isshmsc/uvsoftgroupgeotransformation/blob/master/images/1%20.jpg =250x)](https://www.youtube.com/watch?v=KDQFzPHIKYQ).
 2. [Youtube](https://www.facebook.com/uvsoftgroup/). [Youtube](https://www.facebook.com/groups/197339797548235/).
 3. [Youtube](https://www.facebook.com/groups/197339797548235/).
 ![alt text](https://github.com/isshmsc/uvsoftgroupgeotransformation/blob/master/images/1%20.jpg)
